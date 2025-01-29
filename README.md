@@ -31,8 +31,42 @@
 ## License 
 
 This project is open-source and licensed under the MIT License.
+## Top view
+![alt text](image.png)
+## Seprerate view
+![alt text](image-1.png)
+## Misc view
+![alt text](image-2.png)
 
-##
+## BOM 
+-- Wesmos c3 
+-- tp4056 
+-- TFT_ST7735_SD
+-- dht 11
+-- sd card 
 
+
+## Schematic 
+![alt text](image-3.png)
+
+## PCB
+![alt text](image-4.png)
+
+## 3D VIEW
+![alt text](image-5.png)
+
+## BOM
+**From Hq**
+-- 10 WS2812B at .04$/led so 40 cents 
+ **Provided by dari // alex:**
+
+-- 1x WeMos S2 Mini (as a cheaper replacement for the S2) WITHOUT FEMALE HEADERS
+-- 1x ST7735 1.8" LCD display WITHOUT FEMALE HEADERS. Male headers soldered!
+-- 1x 3D printed case 
+
+**From LCSC**
+-- headers 
+-- screw 
+-- DHT11
+-- Antena 
 ---
-
